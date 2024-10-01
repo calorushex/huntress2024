@@ -2,7 +2,7 @@
 
 First day warmup challenge starts with downloading a large QR code.
 
-![QR Code](img/qrcode.png)
+![QR Code](qrcode.png)
 
 Decoding this gets you an encoded string that looks to be another PNG file.
 
